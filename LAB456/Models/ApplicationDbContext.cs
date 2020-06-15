@@ -43,4 +43,4 @@ namespace LAB456.Models
             return new ApplicationDbContext();
         }
     }
-}
+}   
