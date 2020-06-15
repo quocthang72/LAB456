@@ -353,7 +353,6 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="HtmlPage2.html" />
-    <Content Include="LAB456.csproj.user" />
     <Content Include="obj\Debug\LAB456.csproj.FileListAbsolute.txt" />
     <Content Include="obj\Debug\LAB456.dll" />
     <Content Include="obj\Debug\LAB456.pdb" />
@@ -385,7 +384,6 @@
     <Content Include="obj\Debug\LAB456.csproj.GenerateResource.Cache" />
     <Content Include="obj\Debug\LAB456.csprojAssemblyReference.cache" />
     <Content Include="obj\Debug\LAB456.csprojResolveAssemblyReference.cache" />
-    <Content Include="ApplicationInsights.config" />
     <None Include="packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2-vsdoc.js" />
     <Content Include="packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2.js" />
     <Content Include="packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2.min.js" />
